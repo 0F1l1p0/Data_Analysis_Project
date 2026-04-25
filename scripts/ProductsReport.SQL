@@ -12,7 +12,7 @@
   
   The final view provides a comprehensive overview of product performance, making it useful for business reporting, product analysis, and decision-making.
 
-  
+  In order to see the view run the command 'SELECT * FROM gold.Final_Report_Products
 */
 
 CREATE VIEW gold.Final_Report_Products AS
